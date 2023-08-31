@@ -8,9 +8,9 @@ Es un sistema de archivo muy sencillo que tiene como objetivo de entender a gran
 
 __Funciones y simbología:__
 
-_mos_ - muestra el contenido de una carpeta
+     _mos_ - muestra el contenido de una carpeta
 
-_at_ - regresa una carpeta atrás. 
+     _at_ - regresa una carpeta atrás. 
 
 _root_ - regresa a la carpeta raíz
 
