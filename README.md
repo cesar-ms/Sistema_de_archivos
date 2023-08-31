@@ -9,15 +9,25 @@ Es un sistema de archivo muy sencillo que tiene como objetivo de entender a gran
 __Funciones y simbología:__
 
  mos - muestra el contenido de una carpeta
+ 
  at - regresa una carpeta atrás. 
+ 
  root - regresa a la carpeta raíz
+ 
  hom - cambia el nombre de una carpeta o archivo
+ 
  ler - lee el contenido de un archivo
+ 
  add - añade contenido al archivo
+ 
  mak - crea una carpeta o archivo
+ 
  cpy - copia
+ 
  mov - mueve
+ 
  elm - elimina
+ 
  ex - sale del sistema. 
 
 Dado que es una simulación sencilla de un sistema real, la ejecución del programa se muestra en la consola de NetBeans.
