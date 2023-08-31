@@ -8,27 +8,27 @@ Es un sistema de archivo muy sencillo que tiene como objetivo de entender a gran
 
 __Funciones y simbología:__
 
-      _mos_ - muestra el contenido de una carpeta
-    
-      _at_ - regresa una carpeta atrás. 
-    
-      _root_ - regresa a la carpeta raíz
-    
-      _hom_ - cambia el nombre de una carpeta o archivo
-    
-      _ler_ - lee el contenido de un archivo
-    
-      _add_ - añade contenido al archivo
-    
-      _mak_ - crea una carpeta o archivo
-    
-      _cpy_ - copia
-    
-      _mov_ - mueve
-    
-      _elm_ - elimina
-    
-      _ex_ - sale del sistema. 
+_mos_ - muestra el contenido de una carpeta
+
+_at_ - regresa una carpeta atrás. 
+
+_root_ - regresa a la carpeta raíz
+
+_hom_ - cambia el nombre de una carpeta o archivo
+
+_ler_ - lee el contenido de un archivo
+
+_add_ - añade contenido al archivo
+
+_mak_ - crea una carpeta o archivo
+
+_cpy_ - copia
+
+_mov_ - mueve
+
+_elm_ - elimina
+
+_ex_ - sale del sistema. 
 
 Dado que es una simulación sencilla de un sistema real, la ejecución del programa se muestra en la consola de NetBeans.
 
