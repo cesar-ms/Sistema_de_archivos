@@ -1,0 +1,42 @@
+Raiz           0-Z:
+(1)-Carpeta->Escritorio<
+(1.1)-Carpeta->NuevaCarpeta1<
+(1.1.1)-Carpeta->NuevaCarpeta5<
+(1.1.1.1)-Carpeta->NuevaCarpeta2<
+?
+(1.2)-Carpeta->NuevaCarpeta2<
+(1.2.1)-Carpeta->NuevaCarpeta1<
+?
+(1.3)-Archivo->MiBloc.txt<
+?
+=====================
+(1.4)-Carpeta->MiCarperta<
+?
+(2)-Carpeta->Descargas<
+(2.1)-Archivo->dll.txt<
+?
+=====================
+(3)-Carpeta->Documentos<
+(3.1)-Archivo->Tema1.txt<
+La estructura de un sistema de archivos de un sistema operativo es el nivel más básico de organización.
+Casi todas las formas en que un sistema operativo interactúa con sus usuarios, aplicaciones y modelos de
+seguridad dependen de la manera en que almacena y organiza los archivos en los dispositivo de almacenamiento.
+El proporcionar una estructura de sistema de archivos común asegura que los usuarios y programas pueden acceder
+y escribir a los archivos.
+=====================
+(4)-Imagenes->Imagenes<
+?
+(5)-Archivo->Tema2.txt<
+Los archivos compartibles son aquéllos a los que se puede acceder desde varios hosts;
+mientras que los archivos no compartibles sólo están disponibles localmente.
+Los archivos variables, tales como documentos, pueden cambiar en cualquier momento;
+los archivos estáticos, tales como binarios, no cambian sin una actuación por parte del
+administrador de sistemas.
+=====================
+(6)-Archivo->Tema3.txt<
+La razón para visualizar a los archivos de esta manera es para ayudar a correlacionar la función del
+archivo con los permisos otorgados a los directorios que los sostienen. El modo en que el sistema operativo
+y sus usuarios interactúan con un archivo dado determina el directorio en el cual estos archivos están
+ubicados, si ese directorio está montado como de sólo lectura o sólo escritura y el nivel de acceso que
+cada usuario tiene a ese archivo.
+=====================
